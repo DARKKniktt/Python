@@ -2,12 +2,9 @@
 
 ---
 
-Erstellen eines Geldautomaten in Python mit Tkinter GUI:
-
-[Geldautomat_Tkinter-GUI.py](Geldautomat-py/Geldautomat_Tkinter-GUI.py)
+Erstellen eines Geldautomaten in Python mit Tkinter GUI: [Geldautomat_Tkinter-GUI.py](Geldautomat-py/Geldautomat_Tkinter-GUI.py)
 
 Funktionen:
-
 - Kontostand abrufen
 - neuen Kontostand speichern
 - Geld abheben
@@ -15,10 +12,16 @@ Funktionen:
 
 ---
 
-Erstellen eines Fahrzeug Programms
+Erstellen eines Library Programms: [Library.py](library-py/Library.py)
 
-[Fahrzeug.py](Fahrzeug.py)
+Funktionen:
+- eingabe: titel, author, name, ort
+- Büchewr speichern
+- Bücher in Liste anzeigen
+- Bücher löschen
 
 ---
 
-Erstellen eines Library Programms
+Erstellen eines Fahrzeug Programms: [Fahrzeug.py](Fahrzeug.py)
+
+---
